@@ -8,10 +8,11 @@ Traffic congestion is always a daunting problem that affects people's daily life
 ## About
 This repository provides detailed instructions on the design and implementation of the RL algorithm to solve the traffic signal control problem. It shows three different traffic signal designs, as well as the process of intelligent RL agent learns to manage the traffic light adapting to real-time traffic conditions. Meanwhile, the environment interface is devised that the user can specify their own traffic signal design and RL algorithms to test it on.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Training Stage** 
+**Training Stage** 
 
 ![](./savedVideos/RLlearningStage.gif)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Trained Agent**
+
+**Trained Agent**
 
 ![](./savedVideos/RLTrained.gif)
 
