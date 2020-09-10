@@ -18,7 +18,7 @@ This repository provides detailed instructions on the design and implementation 
 ![](./savedVideos/RLTrained.gif)
 
 ## Getting Started
-The introduction and detailed step-by-step instructions can be found from MATLAB Live Script: masterLiveScript.mlx **preferred**. Alternatively, you can also start with master.m, which is a MATLAB script **viewable in GitLab**.
+The introduction and detailed step-by-step instructions can be found from MATLAB Live Script: masterLiveScript.mlx **preferred**. Alternatively, you can also start with master.m, which is a MATLAB script **viewable on GitHub**.
 
 The workflow of the developing process mainly involves five steps:
 
