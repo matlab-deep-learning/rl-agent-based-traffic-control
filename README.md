@@ -23,7 +23,7 @@ The introduction and detailed step-by-step instructions can be found from MATLAB
 The workflow of the developing process mainly involves five steps:
 
 ![application workflow](./savedFigures/workflow.png "application workflow")
-- Step 1: create an environment interface from MARTO specialized traffic simulator. For more information on the simulator, see [OpenTrafficLab](https://insidelabs-git.mathworks.com/marto/selfish-driving-cars/dsd-traffic-simulator.git).
+- Step 1: create an environment interface from MARTO specialized traffic simulator. For more information on the simulator, see [OpenTrafficLab](https://github.com/mathworks/OpenTrafficLab).
 - Step 2: specify traffic problem formulation, including observation space, traffic signal phase design (action), and reward function. 
 - Step 3: create deep Q-network (DQN) agent. A list of other agent options can be found [here](https://www.mathworks.com/help/reinforcement-learning/agents.html?s_tid=CRUX_lftnav).
 - Step 4: specify the training options and train the agent.
