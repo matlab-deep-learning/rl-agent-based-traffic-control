@@ -1,6 +1,6 @@
 # Agent-based Traffic Signal Management System by Model-free Reinforcement Learning
 
-- Author: Sherry Zhao 
+- Author: Xiangxue(Sherry) Zhao 
 - Email: xiangxuezhao@gmail.com 
 
 ## Overview
